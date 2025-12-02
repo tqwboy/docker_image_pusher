@@ -1,5 +1,5 @@
 python:3.12.11-slim
 python:3.12.12-slim
 mysql:8.4.7
-Redis:7.4.0
+redis:7.4.0
 jenkins:2.539-jdk21
